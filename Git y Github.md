@@ -1,4 +1,4 @@
-# **Git y Git *hub ***      :fire:
+# **Git y Github ***      :fire:
 
 ![](https://s3-torquehhvm-wpengine.netdna-ssl.com/uploads/2015/10/git-for-wordpress-development-770x400.jpg)
 
